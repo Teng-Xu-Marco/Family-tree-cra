@@ -1,0 +1,8 @@
+.input-panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-panel input {
+    margin-bottom: 2px;
+}
